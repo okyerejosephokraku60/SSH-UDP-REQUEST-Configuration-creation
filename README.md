@@ -35,4 +35,4 @@ Note: Replace "server-name" with the name you assigned in the configuration file
 
 CREATION OF SSH UDP REQUEST CONFIGURATION FROM WEBSITE.
 
-Visit "https://www.fastssh.com/page/ssh-udp-request/" to create amy of the accounts available by entering preferred Username and Password.
+Visit "https://www.fastssh.com/page/ssh-udp-request/" to create any of the accounts available by entering preferred Username and Password.
